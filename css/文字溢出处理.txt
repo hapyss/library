@@ -1,0 +1,2 @@
+单行文字：
+{overflow: hidden; white-space: nowrap; text-overflow: ellipsis;}
